@@ -1,0 +1,249 @@
+{
+  "stations": [
+    {
+      "id": 1,
+      "name": "Helwan",
+      "line": "First Line",
+      "order": 0,
+      "is_transfer": false
+    },
+    {
+      "id": 2,
+      "name": "Ain Helwan",
+      "line": "First Line",
+      "order": 1,
+      "is_transfer": false
+    },
+    {
+      "id": 3,
+      "name": "Helwan University",
+      "line": "First Line",
+      "order": 2,
+      "is_transfer": false
+    },
+    {
+      "id": 4,
+      "name": "Wadi Hof",
+      "line": "First Line",
+      "order": 3,
+      "is_transfer": false
+    },
+    {
+      "id": 5,
+      "name": "Hadayek Helwan",
+      "line": "First Line",
+      "order": 4,
+      "is_transfer": false
+    },
+    {
+      "id": 6,
+      "name": "El-Maasara",
+      "line": "First Line",
+      "order": 5,
+      "is_transfer": false
+    },
+    {
+      "id": 7,
+      "name": "Tora El-Asmant",
+      "line": "First Line",
+      "order": 6,
+      "is_transfer": false
+    },
+    {
+      "id": 8,
+      "name": "Kozzika",
+      "line": "First Line",
+      "order": 7,
+      "is_transfer": false
+    },
+    {
+      "id": 9,
+      "name": "Tora El-Balad",
+      "line": "First Line",
+      "order": 8,
+      "is_transfer": false
+    },
+    {
+      "id": 10,
+      "name": "Sakanat El-Maadi",
+      "line": "First Line",
+      "order": 9,
+      "is_transfer": false
+    },
+    {
+      "id": 11,
+      "name": "Maadi",
+      "line": "First Line",
+      "order": 10,
+      "is_transfer": false
+    },
+    {
+      "id": 12,
+      "name": "Hadayek El-Maadi",
+      "line": "First Line",
+      "order": 11,
+      "is_transfer": false
+    },
+    {
+      "id": 13,
+      "name": "Dar El-Salam",
+      "line": "First Line",
+      "order": 12,
+      "is_transfer": false
+    },
+    {
+      "id": 14,
+      "name": "El-Zahraa'",
+      "line": "First Line",
+      "order": 13,
+      "is_transfer": false
+    },
+    {
+      "id": 15,
+      "name": "Mar Girgis",
+      "line": "First Line",
+      "order": 14,
+      "is_transfer": false
+    },
+    {
+      "id": 16,
+      "name": "El-Malek El-Saleh",
+      "line": "First Line",
+      "order": 15,
+      "is_transfer": false
+    },
+    {
+      "id": 17,
+      "name": "Al-Sayeda Zeinab",
+      "line": "First Line",
+      "order": 16,
+      "is_transfer": false
+    },
+    {
+      "id": 18,
+      "name": "Saad Zaghloul",
+      "line": "First Line",
+      "order": 17,
+      "is_transfer": false
+    },
+    {
+      "id": 19,
+      "name": "Sadat",
+      "line": "First Line",
+      "order": 18,
+      "is_transfer": true
+    },
+    {
+      "id": 20,
+      "name": "Nasser",
+      "line": "First Line",
+      "order": 19,
+      "is_transfer": true
+    },
+    {
+      "id": 21,
+      "name": "Orabi",
+      "line": "First Line",
+      "order": 20,
+      "is_transfer": false
+    },
+    {
+      "id": 22,
+      "name": "Al-Shohadaa",
+      "line": "First Line",
+      "order": 21,
+      "is_transfer": true
+    },
+    {
+      "id": 23,
+      "name": "Ghamra",
+      "line": "First Line",
+      "order": 22,
+      "is_transfer": false
+    },
+    {
+      "id": 24,
+      "name": "El-Demerdash",
+      "line": "First Line",
+      "order": 23,
+      "is_transfer": false
+    },
+    {
+      "id": 25,
+      "name": "Manshiet El-Sadr",
+      "line": "First Line",
+      "order": 24,
+      "is_transfer": false
+    },
+    {
+      "id": 26,
+      "name": "Kobri El-Qobba",
+      "line": "First Line",
+      "order": 25,
+      "is_transfer": false
+    },
+    {
+      "id": 27,
+      "name": "Hammamat El-Qobba",
+      "line": "First Line",
+      "order": 26,
+      "is_transfer": false
+    },
+    {
+      "id": 28,
+      "name": "Saray El-Qobba",
+      "line": "First Line",
+      "order": 27,
+      "is_transfer": false
+    },
+    {
+      "id": 29,
+      "name": "Hadayek El-Zaitoun",
+      "line": "First Line",
+      "order": 28,
+      "is_transfer": false
+    },
+    {
+      "id": 30,
+      "name": "Helmeyet El-Zaitoun",
+      "line": "First Line",
+      "order": 29,
+      "is_transfer": false
+    },
+    {
+      "id": 31,
+      "name": "El-Matareyya",
+      "line": "First Line",
+      "order": 30,
+      "is_transfer": false
+    },
+    {
+      "id": 32,
+      "name": "Ain Shams",
+      "line": "First Line",
+      "order": 31,
+      "is_transfer": false
+    },
+    {
+      "id": 33,
+      "name": "Ezbet El-Nakhl",
+      "line": "First Line",
+      "order": 32,
+      "is_transfer": false
+    },
+    {
+      "id": 34,
+      "name": "El-Marg",
+      "line": "First Line",
+      "order": 33,
+      "is_transfer": false
+    },
+    {
+      "id": 35,
+      "name": "New El-Marg",
+      "line": "First Line",
+      "order": 34,
+      "is_transfer": false
+    }
+  ]
+}
