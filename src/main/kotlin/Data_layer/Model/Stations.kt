@@ -1,4 +1,4 @@
-package org.example.Domain
+package org.example.Data_layer.Model
 
 data class Station(
     val id: Int,
